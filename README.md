@@ -4,7 +4,9 @@
   </a>
 </div>
 
+<p align="center"><a href="https://vishwathilina.netlify.app"><img width="80%" alt="Hello, I'm Vishwa" src="./images/hi.png" /></a></p>
 
+<br />
 
 <p >
  <a href="https://www.linkedin.com/in/vishwathilina"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 

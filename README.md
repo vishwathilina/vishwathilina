@@ -4,6 +4,5 @@
   </a>
 </h1>
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/vishwathilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/vishwathilina"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+ <a href="[https://vishwathilina.netlify.app"><img src="https://img.shields.io/badge/portfolio-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 

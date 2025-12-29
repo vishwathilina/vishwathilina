@@ -1,9 +1,11 @@
-<img align='right' width='300' src="./images/cloudy.png" />
-<img align='left' width='100' src="./images/server2.png" />
+
+
 <div align="center">
+  <img align='right' width='300' src="./images/cloudy.png" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+devops-skills;System+Update:+Loading+Docker...;Loading+Terraform+Modules...;echo+%22Hello+World!%22" alt="Typing SVG" />
   </a>
+  <img align='left' width='100' src="./images/server2.png" />
 </div>
 
 

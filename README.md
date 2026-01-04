@@ -4,6 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=500&color=2EC27E&background=0d1117&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+devops-skills;System+Update:+Loading+Docker...;Loading+Terraform+Modules...;echo+%22Hello+World!%22" alt="Typing SVG" />
   </a><img align='left' width='70' src="./images/server2.png" />
+  <img align='right' width='200' src="./images/cloudy2.png" />
 </div>
 
 <div align="">

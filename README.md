@@ -1,13 +1,12 @@
 
 
-<div  align="center">
+<div  align="">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=500&color=2EC27E&background=0d1117&center=true&vCenter=true&width=500&lines=sudo+apt-get+install+devops-skills;System+Update:+Loading+Docker...;Loading+Terraform+Modules...;echo+%22Hello+World!%22" alt="Typing SVG" />
   </a><img align='left' width='70' src="./images/server2.png" />
-  <img align='right' width='200' src="./images/cloudy.png" />
 </div>
 
-<div align="center">
+<div align="">
 <h1>
   Hi there, I'm 
   <img src="https://github.com/vishwathilina/vishwathilina/raw/main/images/vishwathilina.svg" alt="Vishwa Thilina" width="210">
@@ -34,8 +33,8 @@
   </a>
 </div>
 
-<br>
-<h2>My Tech Stack</h2>
+
+<h2>Technologies & Tools</h2>
 <a href="https://github.com/search?q=user%3Avishwathilina+language%3Ajava&type=code" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396" alt="Java" />
 </a>
@@ -60,8 +59,8 @@
 <a href="https://github.com/search?q=user%3Avishwathilina+language%3Aspring&type=code" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=white&color=007396" alt="Spring" />
 </a>
-
-<br>
+</br>
+</br>
 <pre>
   ┌──┤ PROJECTS ├───────▰▰▰
 │

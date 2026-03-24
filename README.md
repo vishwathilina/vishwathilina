@@ -12,7 +12,7 @@
   Hi there, I'm 
   <img src="https://github.com/vishwathilina/vishwathilina/raw/main/images/vishwathilina.svg" alt="Vishwa Thilina" width="210">
 </h1>
-  <a href="https://www.linkedin.com/in/vishwa-thilina" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/vishwathilina" target="_blank" rel="noopener noreferrer">
     <img 
       alt="LinkedIn" 
       loading="lazy" 

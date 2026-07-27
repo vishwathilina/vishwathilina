@@ -63,12 +63,23 @@
 </br>
 </br>
 <pre>
-  ┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/vishwathilina/OldTrailBikes">OldTrailBikes</a>
-├─◈ <a href="https://github.com/vishwathilina/agentguard">AgentGuard</a>
-├─◈ <a href="https://github.com/vishwathilina/aevarai">Aevarai</a>
-├─◈ <a href="https://github.com/vishwathilina/MailAgent">MailAgent</a>  
-│
-└───────────────────────────────▰▰▰
+vishwa@github:~$ ls -la ~/projects
+
+drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/OldTrailBikes">OldTrailBikes</a>
+│  ├─ markertplace for dirt bike 
+│  └─ status: maintained
+
+drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/agentguard">AgentGuard</a>
+│  ├─ devsecops platform
+│  └─ status: active
+
+drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/aevarai">Aevarai</a>
+│  ├─ Auction Platform
+│  └─ status: active
+
+drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/MailAgent">MailAgent</a>
+│  ├─ Smart Email Automation
+│  └─ status: maintained
+
+vishwa@github:~$
 </pre>

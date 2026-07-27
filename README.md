@@ -66,19 +66,19 @@
 vishwa@github:~$ ls -la ~/projects
 
 drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/OldTrailBikes">OldTrailBikes</a>
-│  ├─ markertplace for dirt bike 
+│  ├─ markertplace for dirt bike with end to end deplyment
 │  └─ status: maintained
 
 drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/agentguard">AgentGuard</a>
 │  ├─ devsecops platform
-│  └─ status: active
+│  └─ status: maintained
 
 drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/aevarai">Aevarai</a>
 │  ├─ Auction Platform
-│  └─ status: active
+│  └─ status: maintained
 
 drwxr-xr-x  📁 <a href="https://github.com/vishwathilina/MailAgent">MailAgent</a>
-│  ├─ Smart Email Automation
+│  ├─ AI Assisted Email & Operations Platform
 │  └─ status: maintained
 
 vishwa@github:~$

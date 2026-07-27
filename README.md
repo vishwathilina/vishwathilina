@@ -60,6 +60,30 @@
 <a href="https://github.com/search?q=user%3Avishwathilina+language%3Aspring&type=code" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=white&color=007396" alt="Spring" />
 </a>
+<!-- AWS -->
+<a href="https://github.com/search?q=user%3Avishwathilina+aws&type=code" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900" alt="AWS" />
+</a>
+
+<!-- Terraform -->
+<a href="https://github.com/search?q=user%3Avishwathilina+terraform&type=code" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC" alt="Terraform" />
+</a>
+
+<!-- Docker -->
+<a href="https://github.com/search?q=user%3Avishwathilina+docker&type=code" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" alt="Docker" />
+</a>
+
+<!-- Linux -->
+<a href="https://github.com/search?q=user%3Avishwathilina+linux&type=code" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=black&color=FCC624" alt="Linux" />
+</a>
+
+<!-- Jenkins -->
+<a href="https://github.com/search?q=user%3Avishwathilina+jenkins&type=code" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939" alt="Jenkins" />
+</a>
 </br>
 </br>
 <pre>

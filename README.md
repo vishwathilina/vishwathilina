@@ -65,8 +65,10 @@
 <pre>
   ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/vishwathilina/hotel">hotel</a>
-├─◈ <a href="https://github.com/vishwathilina/hotel">ho ho ho</a>
+├─◈ <a href="https://github.com/vishwathilina/OldTrailBikes">OldTrailBikes</a>
+├─◈ <a href="https://github.com/vishwathilina/agentguard">AgentGuard</a>
+├─◈ <a href="https://github.com/vishwathilina/aevarai">Aevarai</a>
+├─◈ <a href="https://github.com/vishwathilina/MailAgent">MailAgent</a>  
 │
 └───────────────────────────────▰▰▰
 </pre>
